@@ -1,0 +1,94 @@
+Number,Question
+1,"1: Disagreement or verbal fight with family, staff, or peers. Specify: Not applicable - she's 6yo"
+2,2: Was recently disciplined or reprimanded for behaviour.  Specify: 
+3,3: Recently given corrective feedback during a task: Doesn't take instruction or assistance well at all
+4,4: Was hurried or rushed: We don't rush openly.  Make it a race.  
+5,5: Too much or too little staff attention Specify: 
+6,"6: Display of emotion by staff (too loud, too negative, etc.) Specify: Doesn't like cranky voice or loud.  Struggles with ""tone"""
+7,"7: Staff’s tone of voice (high pitched, stern, etc.)  Specify: Doesn't like gruff sounding people.  Struggles with ""tone"""
+8,8: Difficulty understanding staff directions: Doesn't really like being instructed or told or even asked to do something - very much depends on mood or mind frame at the time.
+9,9: Presence of disliked staff
+10,10: New staff present
+11,11: Ongoing difficulty communicating wants or needs 
+12,"12: Too much or too little attention from peers.  Specify: Here at home craves one on one more than anything.  Needs constant attention, and doesn't seem to like big groups either."
+13,13: Presence of a disliked peer
+14,14: Too many people around the person
+15,15: Unfamiliar person present
+16,"16: Family, staff, or peers are too close or  too far away.  Specify: "
+17,"17: Group size (large, small) Specify: Struggles with groups bigger than 4-5 most times."
+18,18: Recently being physically restrained 
+19,19: Bad day at day program or work 
+20,20: Location associated with negative interactions (ex. dentist’s office) 
+21,21: Peers acting upset nearby 
+22,22:  Anxiety over holiday activities
+23,23:  Are there any other types of negative interactions that are setting events or discriminative stimuli for this person? Seems to want to be with me constantly (Joy - mum).  She needs reassurance that you are close by.  Doesn't do large groups.  
+24,"24: Informed of something disappointing (learned visit will not occur, visitors failed to arrive, etc.) Specify:"
+25,25: Favourite staff absent
+26,26: Too few staff to meet the person's need
+27,27: Failed to have his/her requests met
+28,28: Absence of a friend 
+29,29: Not earning reinforcer or reward 
+30,30: Being given non-preferred foods Specify: Need to introduce foods.  Has her favourites.  Sticks to them.
+31,31: Not having meals at desired times Specify:
+32,32: Worrying about family or friend's health
+33,33: Favourite activity ends Specify: Needs time warnings it is going to be over.
+34,34: Are there any other types of disappointment that are setting events or discriminative stimuli for this person? Needs time warnings and reminders that we need to go or activity is changing.  
+35,35: Please list any other social factors that you believe may be setting events or discriminative stimuli for the person you work with: Too many people can be overstimulating.  If the group is too large she can become very dysregulated.  She often speaks about herself in the third person.  Says nobody loves me - we tell her we love her alot.  She doesn't like it when support workers change.  She has two favourites and they are not in her life at the moment.  She keeps asking about them - wants them to come back.  She can be quite nasty and uninclusive with workers and even us at times.  
+36,36: Lack of choice
+37,37: Boring Task
+38,38: Difficult Task
+39,39: New task
+40,40: Slow pace of instruction
+41,41: Instruction is too fast paced 
+42,42: Making large numbers of errors
+43,43: Repetitive tasks
+44,44: Environment is too quiet or too exciting.  Specify: 
+45,45: Little or no reinforcement in setting
+46,46: Length of activity (too long or not long enough).  Specify: 
+47,"47: Waiting (in line, waiting rooms) "
+48,48: Medical appointments or medical settings
+49,49: Are there any other factors related to the task or chore that are setting events or discriminative stimuli for this person:  She doesn't like waiting or travelling in the car for more than half an hour without entertainment - constant entertainment.  She won't do things she finds difficult.  She can run or abscond at times.  It was more prevalent pre medication and younger age.
+50,50: Rigid schedule/lack of schedule Specify:  She requires some sort of schedule - craves regular things.  
+51,51: Changes in routine/cancellations Specify: 
+52,52: Prior warning that a scheduled  activity will take place: don't always advise as it can to be too exciting - becomes overstimulated
+53,53: Absence of prior warning that an activity will take place
+54,54: Boredom/inactivity
+55,55: Transitions between activities Specify: 
+56,56: Inability to leave setting (ex. hospital) Specify: 
+57,"57: Route taken to school or work (lots of stops, dense traffic, duration of trip, etc.) "
+58,58: Are there any other factors about the daily routine that are setting events or discriminative stimuli for this person: Specify: 
+59," 59: Please describe any other aspects of  the task, chore, or activity in progress that may be setting events or discriminative stimuli: "
+60,"60: Uncomfortable location (home, work, classroom, church)Specify:  "
+61,61: Temperature is too hot or too cold Specify:___________________________
+62,62: Uncomfortable seating
+63,63: Very bright or very dim lighting Specify: 
+64,64: Noisy environment
+65,65: Being in van or car
+66,66: Are there any other types of uncomfortable environment that are setting events or discriminative stimuli for this person? 
+67,"67: Unpleasant weather conditions (rain, heat, snow, etc.) Specify:___________________________ "
+68,68: Time of day Specify:__________________________ 
+69,69: Lost/broken personal items 
+70,70: Unfamiliar location
+71,71: Change of season
+72,72: Are there any other changes in the environment that are setting events or discriminative stimuli for this person? 
+73,73: Please describe any other aspects of the physical environment that may be setting events or discriminative stimuli for the person you work with:
+74,74: Side effects of medications Specify:
+75,75: Changes in medication  Specify: 
+76,76: Is there anything else about medication that is a setting event or antecedent for this person? 
+77,"77: Acute illness/pain (ex. otitis media, constipation, back pain, etc.) Specify:___________________________"
+78,78: Long term or chronic illness (ex. diabetes) Specify:__________________________
+79,79: Periods of frequent hallucination
+80,80: Manic phase of bipolar disorder
+81,81: Is there any other type of illness that is a setting event or antecedent for this person? 
+82,82: Feeling tired Specify: 
+83,83: Hunger or thirst
+84,84: Being on a diet Specify:___________________________
+85,85: Being given less food than desired Specify:___________________________ 
+86,"86:Drinking coffee, tea, or soda with caffeine Specify: "
+87,87: Menstrual discomfort
+88,88: Fatigue or discomfort from recent exercise 
+89,89: Sexual frustration
+90,90: Long periods between cigarettes
+91,91: Long periods without caffeine 
+92,92: Are there any other physiological states that are setting events or discriminative stimuli for this person? 
+93,93: Please describe any other biological factors that may be setting events or discriminative stimuli for the person you work with: 
